@@ -9,7 +9,7 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
-  background: transparent;
+  background: url(./img/89317.png);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,7 +22,7 @@ body {
   width: 400px;
   background: rgba(231, 231, 231, 0.13);
   border-radius: 20px;
-  box-shadow: 0 15px 30px 5px rgba(171, 54, 187, 0.418);
+  box-shadow: 0 15px 30px 5px rgba(0, 0, 0, 0.418);
 }
 
 .image-container {
@@ -38,7 +38,7 @@ body {
   width: 100%;
   object-fit: cover;
   border-radius: 20px;
-  box-shadow: 0 5px 30px 5px rgba(39, 148, 211, 0.911);
+  box-shadow: 0 5px 30px 5px rgba(88, 211, 39, 0.062);
 }
 
 h2 {
@@ -76,7 +76,6 @@ h3 {
   position: relative;
   top: -25px;
   display: flex;
-  color: rgb(252, 252, 252);
   justify-content: space-between;
 }
 
