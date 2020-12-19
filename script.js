@@ -14,17 +14,17 @@ const nextBtn = document.getElementById('next')
 const songs =[
     {
         name:'n1',
-        displayName:'Cold ',
+        displayName:'Cold',
         artist:'NEFFEX'
     },
     {
         name:'n2',
-        displayName:'Destiny ',
+        displayName:'Destiny',
         artist:'NEFFEX'
     },
     {
         name:'n3',
-        displayName:'Fight Back ',
+        displayName:'Fight Back',
         artist:'NEFFEX'
     },
     {
