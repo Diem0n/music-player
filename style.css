@@ -76,7 +76,7 @@ h3 {
   position: relative;
   top: -25px;
   display: flex;
-  color: beige;
+  color: rgb(252, 252, 252);
   justify-content: space-between;
 }
 
