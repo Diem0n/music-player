@@ -76,6 +76,7 @@ h3 {
   position: relative;
   top: -25px;
   display: flex;
+  color: beige;
   justify-content: space-between;
 }
 
